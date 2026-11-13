@@ -1,0 +1,10 @@
+全球地震数据3D可视化报告 - GitHub Pages部署包
+
+1. 在 github.com 创建 Public 仓库，例如 earthquake-3d。
+2. 解压此ZIP，将 index.html 与 .nojekyll 上传至仓库根目录。
+   （部署说明.txt 可不上传。）
+3. 进入仓库 Settings → Pages → Build and deployment。
+4. Source 选 Deploy from a branch；Branch 选 main；Folder 选 /(root)，点击 Save。
+5. 部署完成后，访问 https://你的用户名.github.io/earthquake-3d/ 。
+
+备注：HTML中的图片与脚本已内嵌；部分地图底图可能需要联网。
